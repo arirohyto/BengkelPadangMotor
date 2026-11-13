@@ -1,0 +1,326 @@
+tgl_sekarang,tgl_lalu,durasi_hari,km_tempuh,usia_motor,tipe_motor,keluhan,rekomendasi
+10/06/2025,10/04/2025,61,15000,2,Matic,Rutin,Servis Ringan
+12/06/2025,12/06/2024,365,58000,8,Sport,Mesin,Servis Besar
+13/06/2025,13/05/2025,31,25000,5,Bebek,Pengereman,Ganti Part Fast Moving
+14/06/2025,14/01/2025,151,30000,4,Matic,Kelistrikan,Ganti Part Fast Moving
+15/06/2025,15/03/2025,92,10000,1,Sport,Rutin,Servis Ringan
+13/10/2025,13/08/2025,61,10000,1,Bebek,Rutin,Servis Ringan
+28/10/2025,28/08/2025,61,24000,1,Matic,Performa,Servis CVT
+13/09/2025,13/09/2024,365,60125,7,Matic,Mesin,Ganti Part Fast Moving
+17/09/2025,17/07/2025,62,35000,3,Matic,Mesin,Ganti Part Fast Moving
+13/08/2025,13/06/2025,61,15000,3,Sport,Rutin,Servis Ringan
+22/09/2023,22/09/2022,365,35000,5,Matic,Kaki-kaki,Ganti Part Fast Moving
+25/08/2023,25/08/2021,730,45000,8,Matic,Kaki-kaki,Ganti Part Fast Moving
+11/09/2023,11/07/2023,62,12000,2,Sport,Pengereman,Servis Ringan
+27/10/2023,27/08/2023,61,18000,3,Matic,Rutin,Servis Ringan
+11/10/2023,11/10/2021,730,50000,7,Bebek,Kaki-kaki,Ganti Part Fast Moving
+30/10/2023,30/10/2020,1095,85000,10,Bebek,Mesin,Servis Besar
+22/09/2023,23/08/2023,30,5000,1,Matic,Kelistrikan,Ganti Part Fast Moving
+27/06/2025,27/06/2024,365,28000,4,Bebek,Performa,Ganti Part Fast Moving
+05/09/2023,05/05/2023,123,24000,2,Matic,Rutin,Servis CVT
+19/09/2025,19/06/2025,92,4000,1,Matic,Rutin,Servis Ringan
+25/08/2025,25/06/2025,61,2000,1,Matic,Pengereman,Ganti Part Fast Moving
+10/09/2025,10/12/2024,274,15000,2,Matic,Performa,Servis CVT
+15/10/2025,15/10/2023,731,35000,3,Matic,Kaki-kaki,Ganti Part Fast Moving
+02/09/2025,02/09/2023,731,28000,3,Matic,Performa,Servis Ringan
+04/10/2025,04/06/2025,122,8000,1,Matic,Rutin,Servis Ringan
+06/10/2025,06/02/2025,242,9000,1,Matic,Rutin,Servis Ringan
+22/08/2025,22/08/2023,731,40000,4,Matic,Kaki-kaki,Ganti Part Fast Moving
+11/10/2025,11/02/2025,242,10000,1,Matic,Pengereman,Servis Ringan
+20/09/2025,20/09/2023,731,25000,2,Matic,Kaki-kaki,Servis CVT
+15/10/2025,15/10/2023,731,32000,3,Matic,Kaki-kaki,Ganti Part Fast Moving
+12/10/2025,12/10/2023,731,28000,4,Matic,Kaki-kaki,Ganti Part Fast Moving
+02/09/2025,03/08/2025,30,1000,1,Matic,Rutin,Servis Ringan
+20/09/2025,20/09/2022,1096,45000,5,Matic,Kaki-kaki,Ganti Part Fast Moving
+24/09/2025,24/05/2025,123,8000,1,Matic,Rutin,Servis Ringan
+05/09/2025,05/07/2025,62,18000,2,Sport,Mesin,Servis Ringan
+20/10/2025,20/06/2025,122,25000,3,Matic,Performa,Servis Ringan
+24/09/2025,24/12/2024,274,24000,2,Matic,Performa,Servis CVT
+18/10/2025,18/06/2025,122,15000,2,Matic,Rutin,Servis CVT
+14/10/2025,14/06/2025,122,9000,1,Matic,Rutin,Servis Ringan
+18/09/2025,18/09/2022,1096,55000,5,Matic,Mesin,Servis Besar
+14/08/2025,14/06/2025,61,10000,2,Matic,Rutin,Servis CVT
+31/10/2025,31/08/2025,61,15000,3,Bebek,Kelistrikan,Servis Ringan
+26/09/2025,26/09/2023,731,60000,8,Sport,Mesin,Ganti Part Fast Moving
+28/10/2025,28/10/2023,731,45000,6,Matic,Kelistrikan,Ganti Part Fast Moving
+26/09/2025,26/05/2025,123,12000,2,Matic,Performa,Servis CVT
+24/10/2025,24/10/2022,1096,35000,5,Matic,Mesin,Ganti Part Fast Moving
+25/10/2025,25/07/2025,92,15000,2,Matic,Rutin,Servis CVT
+14/08/2025,14/07/2025,31,4000,1,Matic,Rutin,Servis Ringan
+13/08/2025,13/06/2025,61,15000,3,Sport,Rutin,Servis Ringan
+18/09/2025,18/09/2022,1096,55000,5,Matic,Mesin,Servis Besar
+15/08/2025,15/08/2021,1461,48000,5,Sport,Kaki-kaki,Ganti Part Fast Moving
+03/11/2025,03/05/2025,184,18000,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+26/09/2025,26/09/2024,365,24000,3,Bebek,Pengereman,Servis Ringan
+25/10/2025,25/10/2020,1826,60000,7,Sport,Kelistrikan,Ganti Part Fast Moving
+24/10/2025,24/08/2025,61,35000,4,Sport,Mesin,Servis Ringan
+16/12/2023,16/12/2022,365,12000,2,Sport,Rutin,Servis Ringan
+05/09/2025,05/05/2025,123,8000,1,Sport,Mesin,Servis Ringan
+13/09/2025,13/09/2020,1826,50000,5,Sport,Kaki-kaki,Ganti Part Fast Moving
+18/09/2025,18/09/2021,1461,45000,4,Sport,Kaki-kaki,Ganti Part Fast Moving
+18/09/2025,18/03/2025,184,20000,3,Sport,Performa,Servis Ringan
+19/09/2025,19/09/2023,731,25000,2,Matic,CVT,Servis CVT
+19/09/2025,19/09/2022,1096,35000,3,Matic,Kaki-kaki,Servis CVT
+28/10/2025,28/06/2025,122,12000,2,Bebek,Rutin,Servis Ringan
+31/10/2025,31/10/2023,731,28000,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+15/08/2025,15/08/2021,1461,48000,5,Sport,Kaki-kaki,Ganti Part Fast Moving
+03/11/2025,03/05/2025,184,18000,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+26/09/2025,26/09/2024,365,24000,3,Bebek,Pengereman,Servis Ringan
+25/10/2025,25/10/2020,1826,60000,7,Sport,Kelistrikan,Ganti Part Fast Moving
+24/10/2025,24/08/2025,61,35000,4,Sport,Mesin,Servis Ringan
+16/12/2023,16/12/2022,365,12000,2,Sport,Rutin,Servis Ringan
+05/09/2025,05/05/2025,123,8000,1,Sport,Mesin,Servis Ringan
+13/09/2025,13/09/2020,1826,50000,5,Sport,Kaki-kaki,Ganti Part Fast Moving
+18/09/2025,18/09/2021,1461,45000,4,Sport,Kaki-kaki,Ganti Part Fast Moving
+18/09/2025,18/03/2025,184,20000,3,Sport,Performa,Servis Ringan
+19/09/2025,19/09/2023,731,25000,2,Matic,CVT,Servis CVT
+19/09/2025,19/09/2022,1096,35000,3,Matic,Kaki-kaki,Servis CVT
+28/10/2025,28/06/2025,122,12000,2,Bebek,Rutin,Servis Ringan
+31/10/2025,31/10/2023,731,28000,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+01/11/2025,01/08/2025,92,48500,5,Sport,Kaki-kaki,Ganti Part Fast Moving
+02/11/2025,02/08/2025,92,49000,5,Sport,Kaki-kaki,Ganti Part Fast Moving
+05/11/2025,05/05/2025,184,18500,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+06/11/2025,06/05/2025,184,19000,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+07/11/2025,07/05/2025,184,24500,3,Bebek,Pengereman,Servis Ringan
+28/10/2025,28/10/2020,1826,61000,7,Sport,Kelistrikan,Ganti Part Fast Moving
+29/10/2025,29/10/2020,1826,62000,7,Sport,Kelistrikan,Ganti Part Fast Moving
+25/10/2025,25/08/2025,61,35500,4,Sport,Mesin,Servis Ringan
+17/12/2023,17/12/2022,365,12500,2,Sport,Rutin,Servis Ringan
+06/09/2025,06/05/2025,123,8500,1,Sport,Mesin,Servis Ringan
+14/09/2025,14/09/2020,1826,51000,5,Sport,Kaki-kaki,Ganti Part Fast Moving
+19/09/2025,19/09/2021,1461,46000,4,Sport,Kaki-kaki,Ganti Part Fast Moving
+20/09/2025,20/03/2025,184,20500,3,Sport,Performa,Servis Ringan
+21/09/2025,21/03/2025,184,21000,3,Sport,Performa,Servis Ringan
+20/09/2025,20/09/2023,731,25500,2,Matic,CVT,Servis CVT
+21/09/2025,21/09/2023,731,26000,2,Matic,CVT,Servis CVT
+20/09/2025,20/09/2022,1096,36000,3,Matic,Kaki-kaki,Servis CVT
+29/10/2025,29/06/2025,122,12500,2,Bebek,Rutin,Servis Ringan
+01/11/2025,01/11/2023,731,28500,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+10/01/2025,10/10/2024,92,5000,1,Matic,Rutin,Servis Ringan
+11/01/2025,11/10/2024,92,5500,1,Matic,Rutin,Servis Ringan
+15/02/2025,15/08/2024,184,10000,2,Matic,CVT,Servis CVT
+16/02/2025,16/08/2024,184,10500,2,Matic,CVT,Servis CVT
+20/03/2025,20/03/2020,1826,55000,6,Matic,Mesin,Servis Besar
+21/03/2025,21/03/2020,1826,56000,6,Matic,Mesin,Servis Besar
+05/04/2025,05/01/2025,90,15000,3,Matic,CVT,Servis CVT
+06/04/2025,06/01/2025,90,15500,3,Matic,CVT,Servis CVT
+10/05/2025,10/05/2021,1461,40000,5,Bebek,Rantai,Ganti Part Fast Moving
+11/05/2025,11/05/2021,1461,41000,5,Bebek,Rantai,Ganti Part Fast Moving
+15/06/2025,15/06/2024,365,12000,2,Bebek,Rutin,Servis Ringan
+16/06/2025,16/06/2024,365,12500,2,Bebek,Rutin,Servis Ringan
+20/07/2025,20/07/2020,1826,60000,7,Sport,Mesin,Servis Besar
+21/07/2025,21/07/2020,1826,61000,7,Sport,Mesin,Servis Besar
+05/08/2025,05/05/2025,92,20000,3,Sport,Injeksi,Servis Ringan
+06/08/2025,06/05/2025,92,20500,3,Sport,Injeksi,Servis Ringan
+10/09/2025,10/09/2024,365,15000,2,Matic,Rem,Ganti Part Fast Moving
+11/09/2025,11/09/2024,365,15500,2,Matic,Rem,Ganti Part Fast Moving
+15/10/2025,15/04/2025,183,25000,3,Matic,CVT,Servis CVT
+16/10/2025,16/04/2025,183,25500,3,Matic,CVT,Servis CVT
+20/11/2025,20/11/2020,1826,70000,8,Matic,Mesin,Servis Besar
+21/11/2025,21/11/2020,1826,71000,8,Matic,Mesin,Servis Besar
+01/12/2025,01/06/2025,183,9000,1,Bebek,Rutin,Servis Ringan
+02/12/2025,02/06/2025,183,9500,1,Bebek,Rutin,Servis Ringan
+10/01/2026,10/01/2024,731,30000,4,Bebek,Ban,Ganti Part Fast Moving
+11/01/2026,11/01/2024,731,31000,4,Bebek,Ban,Ganti Part Fast Moving
+15/02/2026,15/02/2022,1461,45000,5,Sport,Radiator,Servis Ringan
+16/02/2026,16/02/2022,1461,46000,5,Sport,Radiator,Servis Ringan
+20/03/2026,20/03/2025,365,18000,2,Sport,Rutin,Servis Ringan
+21/03/2026,21/03/2025,365,18500,2,Sport,Rutin,Servis Ringan
+05/04/2026,05/10/2025,182,22000,3,Matic,CVT,Servis CVT
+06/04/2026,06/10/2025,182,22500,3,Matic,CVT,Servis CVT
+10/05/2026,10/05/2021,1826,50000,6,Bebek,Kopling,Servis Besar
+11/05/2026,11/05/2021,1826,51000,6,Bebek,Kopling,Servis Besar
+15/06/2026,15/12/2025,182,14000,2,Bebek,Rantai,Ganti Part Fast Moving
+16/06/2026,16/12/2025,182,14500,2,Bebek,Rantai,Ganti Part Fast Moving
+20/07/2026,20/07/2025,365,10000,1,Matic,Rutin,Servis Ringan
+21/07/2026,21/07/2025,365,10500,1,Matic,Rutin,Servis Ringan
+01/08/2026,01/02/2026,181,35000,4,Matic,CVT,Servis CVT
+02/08/2026,02/02/2026,181,36000,4,Matic,CVT,Servis CVT
+10/09/2026,10/09/2021,1826,65000,7,Sport,Mesin,Servis Besar
+11/09/2026,11/09/2021,1826,66000,7,Sport,Mesin,Servis Besar
+15/10/2026,15/04/2026,183,28000,3,Sport,Rutin,Servis Ringan
+16/10/2026,16/04/2026,183,28500,3,Sport,Rutin,Servis Ringan
+20/11/2026,20/05/2026,184,16000,2,Bebek,Pengereman,Servis Ringan
+21/11/2026,21/05/2026,184,16500,2,Bebek,Pengereman,Servis Ringan
+01/12/2026,01/06/2026,183,11000,1,Sport,Rutin,Servis Ringan
+02/12/2026,02/06/2026,183,11500,1,Sport,Rutin,Servis Ringan
+10/01/2027,10/01/2022,1826,55000,6,Matic,Kaki-kaki,Ganti Part Fast Moving
+11/01/2027,11/01/2022,1826,56000,6,Matic,Kaki-kaki,Ganti Part Fast Moving
+15/02/2027,15/08/2026,184,13000,2,Matic,Rutin,Servis Ringan
+16/02/2027,16/08/2026,184,13500,2,Matic,Rutin,Servis Ringan
+20/03/2027,20/03/2024,1095,42000,5,Bebek,Ban,Ganti Part Fast Moving
+21/03/2027,21/03/2024,1095,43000,5,Bebek,Ban,Ganti Part Fast Moving
+05/04/2027,05/04/2026,365,19000,2,Sport,Injeksi,Servis Ringan
+06/04/2027,06/04/2026,365,19500,2,Sport,Injeksi,Servis Ringan
+10/05/2027,10/11/2026,181,23000,3,Matic,CVT,Servis CVT
+11/05/2027,11/11/2026,181,23500,3,Matic,CVT,Servis CVT
+15/06/2027,15/06/2022,1826,58000,6,Bebek,Mesin,Servis Besar
+16/06/2027,16/06/2022,1826,59000,6,Bebek,Mesin,Servis Besar
+20/07/2027,20/01/2027,181,14000,2,Sport,Rutin,Servis Ringan
+21/07/2027,21/01/2027,181,14500,2,Sport,Rutin,Servis Ringan
+01/08/2027,01/08/2022,1826,63000,7,Matic,Mesin,Servis Besar
+02/08/2027,02/08/2022,1826,64000,7,Matic,Mesin,Servis Besar
+10/09/2027,10/03/2027,184,26000,3,Bebek,Rantai,Ganti Part Fast Moving
+11/09/2027,11/03/2027,184,26500,3,Bebek,Rantai,Ganti Part Fast Moving
+15/10/2027,15/10/2025,730,32000,4,Sport,Kaki-kaki,Ganti Part Fast Moving
+07/02/2026,07/02/2025,365,45000,11,Matic,CVT,Servis CVT
+03/02/2026,03/02/2025,365,35000,7,Matic,CVT,Servis CVT
+02/02/2026,02/02/2025,365,60000,12,Sport,Mesin,Ganti Part Fast Moving
+07/02/2026,07/02/2025,365,30000,6,Matic,CVT,Servis CVT
+03/02/2026,03/02/2025,365,55000,11,Sport,Mesin,Servis Besar
+04/01/2026,06/10/2025,90,5000,1,Sport,Rutin,Servis Ringan
+06/02/2026,08/11/2025,90,10000,2,Bebek,Pengereman,Ganti Part Fast Moving
+02/02/2026,04/11/2025,90,10000,2,Bebek,Rutin,Ganti Part Fast Moving
+03/02/2026,05/11/2025,90,10000,2,Matic,Rutin,Servis Ringan
+02/02/2026,02/02/2025,365,80000,16,Sport,Ban,Ganti Part Fast Moving
+09/09/2026,09/09/2025,365,35000,7,Bebek,Mesin,Servis Besar
+09/01/2026,11/10/2025,90,5000,1,Matic,Pengereman,Ganti Part Fast Moving
+03/02/2026,05/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+05/02/2026,07/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+05/02/2026,07/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+05/02/2026,07/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+05/02/2026,07/11/2025,90,5000,1,Sport,Rutin,Servis Ringan
+07/02/2026,07/02/2025,365,50000,10,Sport,Rutin,Servis Ringan
+05/02/2026,09/08/2025,180,25000,5,Sport,Ban,Ganti Part Fast Moving
+04/02/2026,04/02/2025,365,80000,37,Sport,Kelistrikan,Ganti Part Fast Moving
+02/02/2026,02/02/2025,365,30000,6,Matic,Kaki-kaki,Ganti Part Fast Moving
+02/02/2026,04/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+09/02/2026,11/11/2025,90,10000,2,Bebek,Rutin,Servis Ringan
+09/02/2026,09/02/2025,365,60000,12,Sport,Mesin,Servis Besar
+07/02/2026,09/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+05/02/2026,07/11/2025,90,10000,2,Matic,Rutin,Servis Ringan
+04/02/2026,04/02/2025,365,50000,10,Sport,Rutin,Servis Ringan
+09/02/2026,11/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+07/02/2026,09/11/2025,90,10000,2,Matic,Rutin,Servis Ringan
+02/02/2026,02/02/2025,365,35000,7,Matic,Rutin,Servis Ringan
+04/02/2026,06/11/2025,90,5000,1,Sport,Kaki-kaki,Servis Besar
+09/02/2026,09/02/2025,365,30000,6,Matic,CVT,Servis CVT
+03/02/2026,05/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+02/02/2026,04/11/2025,90,10000,2,Matic,CVT,Servis CVT
+04/02/2026,06/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+02/02/2026,04/11/2025,90,10000,2,Matic,CVT,Servis CVT
+09/02/2026,09/02/2025,365,30000,6,Matic,Pengereman,Ganti Part Fast Moving
+02/02/2026,02/02/2025,365,50000,10,Sport,Rutin,Servis Ringan
+07/02/2026,07/02/2025,365,45000,9,Sport,Kaki-kaki,Ganti Part Fast Moving
+07/02/2026,09/11/2025,90,10000,2,Matic,Rutin,Servis Ringan
+06/02/2026,08/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+05/02/2026,05/02/2025,365,35000,7,Matic,Kelistrikan,Ganti Part Fast Moving
+05/02/2026,07/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+02/02/2026,02/02/2025,365,55000,11,Sport,Rutin,Servis Ringan
+03/02/2026,03/02/2025,365,50000,10,Sport,Mesin,Servis Besar
+03/02/2026,03/02/2025,365,75000,15,Matic,Kelistrikan,Ganti Part Fast Moving
+04/02/2026,04/02/2025,365,35000,7,Matic,Kelistrikan,Servis Besar
+03/02/2026,03/02/2025,365,35000,7,Matic,CVT,Servis CVT
+07/02/2026,09/11/2025,90,10000,2,Matic,CVT,Servis CVT
+06/02/2026,08/11/2025,90,10000,2,Matic,CVT,Servis CVT
+03/02/2026,03/02/2025,365,70000,14,Sport,Mesin,Ganti Part Fast Moving
+05/02/2026,05/02/2025,365,30000,6,Matic,Kaki-kaki,Servis Besar
+02/02/2026,02/02/2025,365,35000,7,Sport,Kelistrikan,Ganti Part Fast Moving
+09/02/2026,09/02/2025,365,30000,6,Matic,Rutin,Servis Ringan
+07/02/2026,07/02/2025,365,30000,6,Matic,Rutin,Servis Ringan
+06/02/2026,08/11/2025,90,10000,2,Bebek,Rutin,Servis Ringan
+09/02/2026,09/02/2025,365,35000,7,Matic,CVT,Servis CVT
+07/02/2026,09/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+04/02/2026,08/08/2025,180,25000,5,Matic,Pengereman,Ganti Part Fast Moving
+02/02/2026,02/02/2025,365,80000,16,Sport,Pengereman,Ganti Part Fast Moving
+07/02/2026,11/08/2025,180,25000,5,Matic,CVT,Servis CVT
+04/02/2026,08/08/2025,180,15000,3,Matic,Kaki-kaki,Ganti Part Fast Moving
+05/02/2026,07/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+06/02/2026,06/02/2025,365,80000,16,Sport,Kelistrikan,Ganti Part Fast Moving
+07/02/2026,07/02/2025,365,35000,7,Matic,Ban,Ganti Part Fast Moving
+07/02/2026,07/02/2025,365,70000,14,Bebek,Ban,Ganti Part Fast Moving
+03/02/2026,07/08/2025,180,15000,3,Matic,Pengereman,Ganti Part Fast Moving
+05/02/2026,08/08/2025,180,15000,3,Matic,Kelistrikan,Ganti Part Fast Moving
+06/02/2026,06/02/2025,365,70000,14,Matic,Rutin,Servis Ringan
+04/02/2026,04/02/2025,365,30000,6,Matic,Kelistrikan,Ganti Part Fast Moving
+07/02/2026,07/02/2025,365,30000,6,Sport,Kelistrikan,Ganti Part Fast Moving
+02/02/2026,04/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+09/02/2026,09/02/2025,365,35000,7,Sport,Mesin,Servis Besar
+09/02/2026,09/02/2025,365,100000,43,Sport,Pengereman,Ganti Part Fast Moving
+04/02/2026,04/02/2025,365,55000,11,Sport,Mesin,Ganti Part Fast Moving
+02/02/2026,04/11/2025,90,5000,1,Matic,Rutin,Servis Ringan
+03/02/2026,03/02/2025,365,55000,11,Sport,Kaki-kaki,Ganti Part Fast Moving
+02/10/2025,04/07/2025,90,10000,2,Matic,CVT,Servis CVT
+31/10/2023,02/08/2023,90,5000,1,Matic,CVT,Servis CVT
+24/09/2025,26/06/2025,90,10000,2,Bebek,Pengereman,Ganti Part Fast Moving
+01/09/2025,03/06/2025,90,5000,1,Matic,Rutin,Servis Ringan
+22/08/2025,24/05/2025,90,10000,2,Matic,CVT,Servis CVT
+18/10/2025,18/10/2024,365,50000,10,Sport,Kaki-kaki,Ganti Part Fast Moving
+30/09/2025,30/09/2024,365,30000,6,Matic,CVT,Servis CVT
+21/10/2025,21/10/2024,365,55000,11,Bebek,Kelistrikan,Servis Ringan
+25/10/2025,25/10/2024,365,55000,11,Sport,Rutin,Servis Ringan
+09/09/2025,09/09/2024,365,30000,6,Matic,CVT,Servis CVT
+24/10/2025,24/10/2024,365,55000,11,Sport,Rutin,Servis Ringan
+12/09/2025,12/09/2024,365,40000,8,Matic,Mesin,Servis Besar
+10/09/2025,12/06/2025,90,5000,1,Matic,Pengereman,Ganti Part Fast Moving
+30/09/2025,03/04/2025,180,20000,4,Matic,CVT,Servis CVT
+13/09/2025,17/03/2025,180,25000,5,Matic,CVT,Servis CVT
+27/09/2025,29/06/2025,90,5000,1,Matic,Rutin,Servis Ringan
+28/10/2025,28/10/2024,365,40000,8,Matic,Mesin,Servis Besar
+11/10/2025,13/07/2025,90,5000,1,Matic,Pengereman,Ganti Part Fast Moving
+03/10/2025,05/07/2025,90,10000,2,Bebek,Kaki-kaki,Ganti Part Fast Moving
+11/09/2025,11/09/2024,365,70000,14,Bebek,Pengereman,Ganti Part Fast Moving
+16/10/2025,18/07/2025,90,10000,2,Matic,CVT,Servis CVT
+21/10/2025,23/07/2025,90,5000,1,Matic,Rutin,Servis Ringan
+26/09/2025,30/03/2025,180,25000,5,Matic,CVT,Servis CVT
+27/08/2025,29/05/2025,90,5000,1,Matic,Pengereman,Ganti Part Fast Moving
+29/09/2025,01/07/2025,90,5000,1,Bebek,Rutin,Servis Ringan
+14/10/2025,16/07/2025,90,5000,1,Matic,CVT,Servis CVT
+19/09/2025,19/09/2024,365,35000,7,Sport,Rutin,Servis Ringan
+21/10/2025,23/07/2025,90,5000,1,Matic,Pengereman,Ganti Part Fast Moving
+31/10/2025,02/08/2025,90,5000,1,Bebek,Rutin,Servis Ringan
+21/10/2025,23/07/2025,90,5000,1,Matic,Rutin,Servis Ringan
+24/10/2025,24/10/2024,365,75000,15,Matic,Kaki-kaki,Ganti Part Fast Moving
+17/10/2025,17/10/2024,365,40000,8,Matic,Rutin,Servis Ringan
+27/10/2025,27/10/2024,365,65000,13,Bebek,Rutin,Servis Ringan
+07/10/2025,11/04/2025,180,20000,4,Sport,Pengereman,Ganti Part Fast Moving
+21/10/2025,23/07/2025,90,5000,1,Matic,Pengereman,Ganti Part Fast Moving
+12/10/2025,16/04/2025,180,15000,3,Matic,CVT,Servis CVT
+15/09/2025,17/06/2025,90,5000,1,Matic,Rutin,Servis Ringan
+20/10/2025,22/07/2025,90,5000,1,Matic,Rutin,Servis Ringan
+20/10/2025,20/10/2024,365,50000,10,Bebek,Mesin,Servis Besar
+05/09/2025,07/06/2025,90,10000,2,Matic,Pengereman,Ganti Part Fast Moving
+25/10/2025,28/04/2025,180,20000,4,Matic,Kaki-kaki,Ganti Part Fast Moving
+26/08/2025,26/08/2024,365,30000,6,Matic,Mesin,Ganti Part Fast Moving
+24/10/2025,24/10/2024,365,30000,6,Matic,Rutin,Servis Ringan
+20/10/2025,20/10/2024,365,40000,8,Sport,Mesin,Ganti Part Fast Moving
+24/08/2025,24/08/2024,365,45000,9,Sport,Rutin,Servis Ringan
+31/10/2025,02/08/2025,90,10000,2,Matic,Kelistrikan,Servis Ringan
+29/08/2025,29/08/2024,365,50000,10,Bebek,Rutin,Servis Ringan
+16/08/2025,17/02/2025,180,25000,5,Sport,Pengereman,Ganti Part Fast Moving
+24/09/2025,24/09/2024,365,65000,13,Matic,Mesin,Ganti Part Fast Moving
+17/09/2025,17/09/2024,365,55000,11,Sport,Pengereman,Ganti Part Fast Moving
+15/08/2025,15/08/2024,365,40000,8,Sport,Kaki-kaki,Ganti Part Fast Moving
+09/10/2025,09/10/2024,365,30000,6,Sport,Kaki-kaki,Ganti Part Fast Moving
+25/10/2025,25/10/2024,365,35000,7,Matic,Mesin,Ganti Part Fast Moving
+17/10/2025,21/04/2025,180,25000,5,Matic,Pengereman,Ganti Part Fast Moving
+22/08/2025,24/05/2025,90,10000,2,Bebek,Rutin,Servis Ringan
+02/09/2025,04/06/2025,90,5000,1,Matic,Kaki-kaki,Ganti Part Fast Moving
+05/09/2025,05/09/2024,365,30000,6,Sport,Rutin,Servis Ringan
+18/09/2025,18/03/2025,180,10000,2,Matic,CVT,Servis CVT
+03/09/2025,03/09/2024,365,30000,6,Sport,Pengereman,Ganti Part Fast Moving
+19/09/2025,19/06/2025,90,5000,1,Matic,Rutin,Servis Ringan
+02/09/2025,02/03/2025,180,25000,5,Matic,Mesin,Servis Besar
+24/08/2025,24/05/2025,90,5000,1,Matic,Rutin,Servis Ringan
+15/07/2025,20/04/2025,86,21500,3,Matic,Rutin,Ganti Part Fast Moving
+22/08/2025,18/05/2025,96,23800,4,Bebek,Rutin,Ganti Part Fast Moving
+05/09/2025,19/06/2025,78,19200,2,Sport,Rutin,Ganti Part Fast Moving
+10/10/2025,27/06/2025,105,26300,5,Matic,Rutin,Ganti Part Fast Moving
+18/07/2025,17/05/2025,62,18700,3,Bebek,Rutin,Ganti Part Fast Moving
+03/08/2025,07/05/2025,88,32100,4,Matic,Rutin,Ganti Part Fast Moving
+28/09/2025,18/07/2025,72,24600,3,Sport,Rutin,Ganti Part Fast Moving
+12/10/2025,19/06/2025,115,28900,6,Matic,Rutin,Ganti Part Fast Moving
+25/08/2025,24/05/2025,93,35200,5,Bebek,Rutin,Ganti Part Fast Moving
+14/09/2025,09/07/2025,67,22100,4,Sport,Rutin,Ganti Part Fast Moving
+20/07/2025,06/05/2025,75,17500,2,Matic,Rutin,Servis CVT
+08/08/2025,18/05/2025,82,22800,3,Matic,Rutin,Servis CVT
+11/09/2025,05/07/2025,68,19300,2,Matic,Rutin,Servis CVT
+30/09/2025,01/07/2025,91,25600,4,Matic,Rutin,Servis CVT
+15/10/2025,28/06/2025,109,31200,5,Matic,Rutin,Servis CVT
+01/08/2025,04/06/2025,58,16800,3,Matic,Rutin,Servis CVT
+22/10/2025,17/07/2025,97,28400,4,Matic,Rutin,Servis CVT
+08/09/2025,06/05/2025,125,42500,7,Matic,Rutin,Servis Besar
+20/10/2025,23/04/2025,180,48200,8,Bebek,Rutin,Servis Besar
+02/11/2025,06/04/2025,210,55800,9,Sport,Rutin,Servis Besar
+18/08/2025,26/03/2025,145,38700,6,Matic,Rutin,Servis Besar
+05/10/2025,23/04/2025,165,45100,7,Bebek,Rutin,Servis Besar

@@ -1,0 +1,501 @@
+no;tgl_sekarang;tgl_lalu;durasi_hari;km_tempuh;usia_motor;tipe_motor;keluhan;rekomendasi
+1;10/06/2025;10/04/2025;61;15000;2;Matic;Rutin;Servis Ringan
+2;12/06/2025;12/06/2024;365;58000;8;Sport;Mesin;Servis Besar
+3;13/06/2025;13/05/2025;31;25000;5;Bebek;Pengereman;Ganti Part Fast Moving
+4;14/06/2025;14/01/2025;151;30000;4;Matic;Kelistrikan;Ganti Part Fast Moving
+5;15/06/2025;15/03/2025;92;10000;1;Sport;Rutin;Servis Ringan
+6;13/10/2025;13/08/2025;61;10000;1;Bebek;Rutin;Servis Ringan
+7;28/10/2025;28/08/2025;61;24000;1;Matic;Performa;Servis CVT
+8;13/09/2025;13/09/2024;365;60125;7;Matic;Mesin;Ganti Part Fast Moving
+9;17/09/2025;17/07/2025;62;35000;3;Matic;Mesin;Ganti Part Fast Moving
+10;13/08/2025;13/06/2025;61;15000;3;Sport;Rutin;Servis Ringan
+11;22/09/2023;22/09/2022;365;35000;5;Matic;Kaki-kaki;Ganti Part Fast Moving
+12;25/08/2023;25/08/2021;730;45000;8;Matic;Kaki-kaki;Ganti Part Fast Moving
+13;11/09/2023;11/07/2023;62;12000;2;Sport;Pengereman;Servis Ringan
+14;27/10/2023;27/08/2023;61;18000;3;Matic;Rutin;Servis Ringan
+15;11/10/2023;11/10/2021;730;50000;7;Bebek;Kaki-kaki;Ganti Part Fast Moving
+16;30/10/2023;30/10/2020;1095;85000;10;Bebek;Mesin;Servis Besar
+17;22/02/2024;22/09/2023;153;5000;1;Matic;Kelistrikan;Ganti Part Fast Moving
+18;27/06/2025;27/06/2024;365;28000;4;Bebek;Performa;Ganti Part Fast Moving
+19;05/09/2023;05/05/2023;123;24000;2;Matic;Rutin;Servis CVT
+20;19/09/2025;19/06/2025;92;4000;1;Matic;Rutin;Servis Ringan
+21;25/08/2025;25/06/2025;61;2000;1;Matic;Pengereman;Ganti Part Fast Moving
+22;10/09/2025;10/12/2024;274;15000;2;Matic;Performa;Servis CVT
+23;15/10/2025;15/10/2023;731;35000;3;Matic;Kaki-kaki;Ganti Part Fast Moving
+24;02/09/2025;02/09/2023;731;28000;3;Matic;Performa;Servis Ringan
+25;04/10/2025;04/06/2025;122;8000;1;Matic;Rutin;Servis Ringan
+26;06/10/2025;06/02/2025;242;9000;1;Matic;Rutin;Servis Ringan
+27;22/08/2025;22/08/2023;731;40000;4;Matic;Kaki-kaki;Ganti Part Fast Moving
+28;11/10/2025;11/02/2025;242;10000;1;Matic;Pengereman;Servis Ringan
+29;20/09/2025;20/09/2023;731;25000;2;Matic;Kaki-kaki;Servis CVT
+30;15/10/2025;15/10/2023;731;32000;3;Matic;Kaki-kaki;Ganti Part Fast Moving
+31;12/10/2025;12/10/2023;731;28000;4;Matic;Kaki-kaki;Ganti Part Fast Moving
+32;02/10/2025;02/09/2025;30;1000;1;Matic;Rutin;Servis Ringan
+33;20/09/2025;20/09/2022;1096;45000;5;Matic;Kaki-kaki;Ganti Part Fast Moving
+34;24/09/2025;24/05/2025;123;8000;1;Matic;Rutin;Servis Ringan
+35;05/09/2025;05/07/2025;62;18000;2;Sport;Mesin;Servis Ringan
+36;20/10/2025;20/06/2025;122;25000;3;Matic;Performa;Servis Ringan
+37;24/09/2025;24/12/2024;274;24000;2;Matic;Performa;Servis CVT
+38;18/10/2025;18/06/2025;122;15000;2;Matic;Rutin;Servis CVT
+39;14/10/2025;14/06/2025;122;9000;1;Matic;Rutin;Servis Ringan
+40;18/09/2025;18/09/2022;1096;55000;5;Matic;Mesin;Servis Besar
+41;14/08/2025;14/06/2025;61;10000;2;Matic;Rutin;Servis CVT
+42;31/10/2025;31/08/2025;61;15000;3;Bebek;Kelistrikan;Servis Ringan
+43;26/09/2025;26/09/2023;731;60000;8;Sport;Mesin;Ganti Part Fast Moving
+44;28/10/2025;28/10/2023;731;45000;6;Matic;Kelistrikan;Ganti Part Fast Moving
+45;26/09/2025;26/05/2025;123;12000;2;Matic;Performa;Servis CVT
+46;24/10/2025;24/10/2022;1096;35000;5;Matic;Mesin;Ganti Part Fast Moving
+47;25/10/2025;25/07/2025;92;15000;2;Matic;Rutin;Servis CVT
+48;14/08/2025;14/07/2025;31;4000;1;Matic;Rutin;Servis Ringan
+49;13/08/2025;13/06/2025;61;15000;3;Sport;Rutin;Servis Ringan
+50;18/09/2025;18/09/2022;1096;55000;5;Matic;Mesin;Servis Besar
+51;15/08/2025;15/08/2021;1461;48000;5;Sport;Kaki-kaki;Ganti Part Fast Moving
+52;03/11/2025;03/05/2025;184;18000;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+53;26/09/2025;26/09/2024;365;24000;3;Bebek;Pengereman;Servis Ringan
+54;25/10/2025;25/10/2020;1826;60000;7;Sport;Kelistrikan;Ganti Part Fast Moving
+55;24/10/2025;24/08/2025;61;35000;4;Sport;Mesin;Servis Ringan
+56;16/12/2023;16/12/2022;365;12000;2;Sport;Rutin;Servis Ringan
+57;05/09/2025;05/05/2025;123;8000;1;Sport;Mesin;Servis Ringan
+58;13/09/2025;13/09/2020;1826;50000;5;Sport;Kaki-kaki;Ganti Part Fast Moving
+59;18/09/2025;18/09/2021;1461;45000;4;Sport;Kaki-kaki;Ganti Part Fast Moving
+60;18/09/2025;18/03/2025;184;20000;3;Sport;Performa;Servis Ringan
+61;19/09/2025;19/09/2023;731;25000;2;Matic;CVT & Kaki;Servis CVT
+62;19/09/2025;19/09/2022;1096;35000;3;Matic;Kaki-kaki;Servis CVT
+63;28/10/2025;28/06/2025;122;12000;2;Bebek;Rutin;Servis Ringan
+64;31/10/2025;31/10/2023;731;28000;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+65;15/08/2025;15/08/2021;1461;48000;5;Sport;Kaki-kaki;Ganti Part Fast Moving
+66;03/11/2025;03/05/2025;184;18000;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+67;26/09/2025;26/09/2024;365;24000;3;Bebek;Pengereman;Servis Ringan
+68;25/10/2025;25/10/2020;1826;60000;7;Sport;Kelistrikan;Ganti Part Fast Moving
+69;24/10/2025;24/08/2025;61;35000;4;Sport;Mesin;Servis Ringan
+70;16/12/2023;16/12/2022;365;12000;2;Sport;Rutin;Servis Ringan
+71;05/09/2025;05/05/2025;123;8000;1;Sport;Mesin;Servis Ringan
+72;13/09/2025;13/09/2020;1826;50000;5;Sport;Kaki-kaki;Ganti Part Fast Moving
+73;18/09/2025;18/09/2021;1461;45000;4;Sport;Kaki-kaki;Ganti Part Fast Moving
+74;18/09/2025;18/03/2025;184;20000;3;Sport;Performa;Servis Ringan
+75;19/09/2025;19/09/2023;731;25000;2;Matic;CVT & Kaki;Servis CVT
+76;19/09/2025;19/09/2022;1096;35000;3;Matic;Kaki-kaki;Servis CVT
+77;28/10/2025;28/06/2025;122;12000;2;Bebek;Rutin;Servis Ringan
+78;31/10/2025;31/10/2023;731;28000;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+79;01/11/2025;01/08/2025;92;48500;5;Sport;Kaki-kaki;Ganti Part Fast Moving
+80;02/11/2025;02/08/2025;92;49000;5;Sport;Kaki-kaki;Ganti Part Fast Moving
+81;05/11/2025;05/05/2025;184;18500;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+82;06/11/2025;06/05/2025;184;19000;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+83;07/11/2025;07/05/2025;184;24500;3;Bebek;Pengereman;Servis Ringan
+84;28/10/2025;28/10/2020;1826;61000;7;Sport;Kelistrikan;Ganti Part Fast Moving
+85;29/10/2025;29/10/2020;1826;62000;7;Sport;Kelistrikan;Ganti Part Fast Moving
+86;25/10/2025;25/08/2025;61;35500;4;Sport;Mesin;Servis Ringan
+87;17/12/2023;17/12/2022;365;12500;2;Sport;Rutin;Servis Ringan
+88;06/09/2025;06/05/2025;123;8500;1;Sport;Mesin;Servis Ringan
+89;14/09/2025;14/09/2020;1826;51000;5;Sport;Kaki-kaki;Ganti Part Fast Moving
+90;19/09/2025;19/09/2021;1461;46000;4;Sport;Kaki-kaki;Ganti Part Fast Moving
+91;20/09/2025;20/03/2025;184;20500;3;Sport;Performa;Servis Ringan
+92;21/09/2025;21/03/2025;184;21000;3;Sport;Performa;Servis Ringan
+93;20/09/2025;20/09/2023;731;25500;2;Matic;CVT & Kaki;Servis CVT
+94;21/09/2025;21/09/2023;731;26000;2;Matic;CVT & Kaki;Servis CVT
+95;20/09/2025;20/09/2022;1096;36000;3;Matic;Kaki-kaki;Servis CVT
+96;29/10/2025;29/06/2025;122;12500;2;Bebek;Rutin;Servis Ringan
+97;01/11/2025;01/11/2023;731;28500;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+98;10/01/2025;10/10/2024;92;5000;1;Matic;Rutin;Servis Ringan
+99;11/01/2025;11/10/2024;92;5500;1;Matic;Rutin;Servis Ringan
+100;15/02/2025;15/08/2024;184;10000;2;Matic;CVT;Servis CVT
+101;16/02/2025;16/08/2024;184;10500;2;Matic;CVT;Servis CVT
+102;20/03/2025;20/03/2020;1826;55000;6;Matic;Mesin;Servis Besar
+103;21/03/2025;21/03/2020;1826;56000;6;Matic;Mesin;Servis Besar
+104;05/04/2025;05/01/2025;90;15000;3;Matic;CVT;Servis CVT
+105;06/04/2025;06/01/2025;90;15500;3;Matic;CVT;Servis CVT
+106;10/05/2025;10/05/2021;1461;40000;5;Bebek;Rantai;Ganti Part Fast Moving
+107;11/05/2025;11/05/2021;1461;41000;5;Bebek;Rantai;Ganti Part Fast Moving
+108;15/06/2025;15/06/2024;365;12000;2;Bebek;Rutin;Servis Ringan
+109;16/06/2025;16/06/2024;365;12500;2;Bebek;Rutin;Servis Ringan
+110;20/07/2025;20/07/2020;1826;60000;7;Sport;Mesin;Servis Besar
+111;21/07/2025;21/07/2020;1826;61000;7;Sport;Mesin;Servis Besar
+112;05/08/2025;05/05/2025;92;20000;3;Sport;Injeksi;Servis Ringan
+113;06/08/2025;06/05/2025;92;20500;3;Sport;Injeksi;Servis Ringan
+114;10/09/2025;10/09/2024;365;15000;2;Matic;Rem;Ganti Part Fast Moving
+115;11/09/2025;11/09/2024;365;15500;2;Matic;Rem;Ganti Part Fast Moving
+116;15/10/2025;15/04/2025;183;25000;3;Matic;CVT;Servis CVT
+117;16/10/2025;16/04/2025;183;25500;3;Matic;CVT;Servis CVT
+118;20/11/2025;20/11/2020;1826;70000;8;Matic;Mesin;Servis Besar
+119;21/11/2025;21/11/2020;1826;71000;8;Matic;Mesin;Servis Besar
+120;01/12/2025;01/06/2025;183;9000;1;Bebek;Rutin;Servis Ringan
+121;02/12/2025;02/06/2025;183;9500;1;Bebek;Rutin;Servis Ringan
+122;10/01/2026;10/01/2024;731;30000;4;Bebek;Ban;Ganti Part Fast Moving
+123;11/01/2026;11/01/2024;731;31000;4;Bebek;Ban;Ganti Part Fast Moving
+124;15/02/2026;15/02/2022;1461;45000;5;Sport;Radiator;Servis Ringan
+125;16/02/2026;16/02/2022;1461;46000;5;Sport;Radiator;Servis Ringan
+126;20/03/2026;20/03/2025;365;18000;2;Sport;Rutin;Servis Ringan
+127;21/03/2026;21/03/2025;365;18500;2;Sport;Rutin;Servis Ringan
+128;05/04/2026;05/10/2025;182;22000;3;Matic;CVT;Servis CVT
+129;06/04/2026;06/10/2025;182;22500;3;Matic;CVT;Servis CVT
+130;10/05/2026;10/05/2021;1826;50000;6;Bebek;Kopling;Servis Besar
+131;11/05/2026;11/05/2021;1826;51000;6;Bebek;Kopling;Servis Besar
+132;15/06/2026;15/12/2025;182;14000;2;Bebek;Rantai;Ganti Part Fast Moving
+133;16/06/2026;16/12/2025;182;14500;2;Bebek;Rantai;Ganti Part Fast Moving
+134;20/07/2026;20/07/2025;365;10000;1;Matic;Rutin;Servis Ringan
+135;21/07/2026;21/07/2025;365;10500;1;Matic;Rutin;Servis Ringan
+136;01/08/2026;01/02/2026;181;35000;4;Matic;CVT;Servis CVT
+137;02/08/2026;02/02/2026;181;36000;4;Matic;CVT;Servis CVT
+138;10/09/2026;10/09/2021;1826;65000;7;Sport;Mesin;Servis Besar
+139;11/09/2026;11/09/2021;1826;66000;7;Sport;Mesin;Servis Besar
+140;15/10/2026;15/04/2026;183;28000;3;Sport;Rutin;Servis Ringan
+141;16/10/2026;16/04/2026;183;28500;3;Sport;Rutin;Servis Ringan
+142;20/11/2026;20/05/2026;184;16000;2;Bebek;Pengereman;Servis Ringan
+143;21/11/2026;21/05/2026;184;16500;2;Bebek;Pengereman;Servis Ringan
+144;01/12/2026;01/06/2026;183;11000;1;Sport;Rutin;Servis Ringan
+145;02/12/2026;02/06/2026;183;11500;1;Sport;Rutin;Servis Ringan
+146;10/01/2027;10/01/2022;1826;55000;6;Matic;Kaki-kaki;Ganti Part Fast Moving
+147;11/01/2027;11/01/2022;1826;56000;6;Matic;Kaki-kaki;Ganti Part Fast Moving
+148;15/02/2027;15/08/2026;184;13000;2;Matic;Rutin;Servis Ringan
+149;16/02/2027;16/08/2026;184;13500;2;Matic;Rutin;Servis Ringan
+150;20/03/2027;20/03/2024;1095;42000;5;Bebek;Ban;Ganti Part Fast Moving
+151;21/03/2027;21/03/2024;1095;43000;5;Bebek;Ban;Ganti Part Fast Moving
+152;05/04/2027;05/04/2026;365;19000;2;Sport;Injeksi;Servis Ringan
+153;06/04/2027;06/04/2026;365;19500;2;Sport;Injeksi;Servis Ringan
+154;10/05/2027;10/11/2026;181;23000;3;Matic;CVT;Servis CVT
+155;11/05/2027;11/11/2026;181;23500;3;Matic;CVT;Servis CVT
+156;15/06/2027;15/06/2022;1826;58000;6;Bebek;Mesin;Servis Besar
+157;16/06/2027;16/06/2022;1826;59000;6;Bebek;Mesin;Servis Besar
+158;20/07/2027;20/01/2027;181;14000;2;Sport;Rutin;Servis Ringan
+159;21/07/2027;21/01/2027;181;14500;2;Sport;Rutin;Servis Ringan
+160;01/08/2027;01/08/2022;1826;63000;7;Matic;Mesin;Servis Besar
+161;02/08/2027;02/08/2022;1826;64000;7;Matic;Mesin;Servis Besar
+162;10/09/2027;10/03/2027;184;26000;3;Bebek;Rantai;Ganti Part Fast Moving
+163;11/09/2027;11/03/2027;184;26500;3;Bebek;Rantai;Ganti Part Fast Moving
+164;15/10/2027;15/10/2025;730;32000;4;Sport;Kaki-kaki;Ganti Part Fast Moving
+165;07/02/2026;07/02/2025;365;45000;11;Matic;CVT;Servis CVT
+166;03/02/2026;03/02/2025;365;35000;7;Matic;CVT;Servis CVT
+167;02/02/2026;02/02/2025;365;60000;12;Sport;Mesin;Ganti Part Fast Moving
+168;07/02/2026;07/02/2025;365;30000;6;Matic;CVT;Servis CVT
+169;03/02/2026;03/02/2025;365;55000;11;Sport;Mesin;Servis Besar
+170;04/01/2026;06/10/2025;90;5000;1;Sport;Rutin;Servis Ringan
+171;06/02/2026;08/11/2025;90;10000;2;Bebek;Pengereman;Ganti Part Fast Moving
+172;02/02/2026;04/11/2025;90;10000;2;Bebek;Rutin;Ganti Part Fast Moving
+173;03/02/2026;05/11/2025;90;10000;2;Matic;Rutin;Servis Ringan
+174;02/02/2026;02/02/2025;365;80000;16;Sport;Ban;Ganti Part Fast Moving
+175;09/09/2026;09/09/2025;365;35000;7;Bebek;Mesin;Servis Besar
+176;09/01/2026;11/10/2025;90;5000;1;Matic;Pengereman;Ganti Part Fast Moving
+177;03/02/2026;05/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+178;05/02/2026;07/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+179;05/02/2026;07/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+180;05/02/2026;07/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+181;05/02/2026;07/11/2025;90;5000;1;Sport;Rutin;Servis Ringan
+182;07/02/2026;07/02/2025;365;50000;10;Sport;Rutin;Servis Ringan
+183;05/02/2026;09/08/2025;180;25000;5;Sport;Ban;Ganti Part Fast Moving
+184;04/02/2026;04/02/2025;365;80000;37;Sport;Kelistrikan;Ganti Part Fast Moving
+185;02/02/2026;02/02/2025;365;30000;6;Matic;Kaki-kaki;Ganti Part Fast Moving
+186;02/02/2026;04/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+187;09/02/2026;11/11/2025;90;10000;2;Bebek;Rutin;Servis Ringan
+188;09/02/2026;09/02/2025;365;60000;12;Sport;Mesin;Servis Besar
+189;07/02/2026;09/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+190;05/02/2026;07/11/2025;90;10000;2;Matic;Rutin;Servis Ringan
+191;04/02/2026;04/02/2025;365;50000;10;Sport;Rutin;Servis Ringan
+192;09/02/2026;11/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+193;07/02/2026;09/11/2025;90;10000;2;Matic;Rutin;Servis Ringan
+194;02/02/2026;02/02/2025;365;35000;7;Matic;Rutin;Servis Ringan
+195;04/02/2026;06/11/2025;90;5000;1;Sport;Kaki-kaki;Servis Besar
+196;09/02/2026;09/02/2025;365;30000;6;Matic;CVT;Servis CVT
+197;03/02/2026;05/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+198;02/02/2026;04/11/2025;90;10000;2;Matic;CVT;Servis CVT
+199;04/02/2026;06/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+200;03/02/2026;05/11/2025;90;10000;2;Matic;CVT;Servis CVT
+201;02/02/2026;04/11/2025;90;10000;2;Matic;CVT;Servis CVT
+202;09/02/2026;09/02/2025;365;30000;6;Matic;Pengereman;Ganti Part Fast Moving
+203;02/02/2026;02/02/2025;365;50000;10;Sport;Rutin;Servis Ringan
+204;07/02/2026;07/02/2025;365;45000;9;Sport;Kaki-kaki;Ganti Part Fast Moving
+205;07/02/2026;09/11/2025;90;10000;2;Matic;Rutin;Servis Ringan
+206;06/02/2026;08/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+207;05/02/2026;05/02/2025;365;35000;7;Matic;Kelistrikan;Ganti Part Fast Moving
+208;05/02/2026;07/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+209;02/02/2026;02/02/2025;365;55000;11;Sport;Rutin;Servis Ringan
+210;03/02/2026;03/02/2025;365;50000;10;Sport;Mesin;Servis Besar
+211;03/02/2026;03/02/2025;365;75000;15;Matic;Kelistrikan;Ganti Part Fast Moving
+212;04/02/2026;04/02/2025;365;35000;7;Matic;Kelistrikan;Servis Besar
+213;03/02/2026;03/02/2025;365;35000;7;Matic;CVT;Servis CVT
+214;07/02/2026;09/11/2025;90;10000;2;Matic;CVT;Servis CVT
+215;06/02/2026;08/11/2025;90;10000;2;Matic;CVT;Servis CVT
+216;03/02/2026;03/02/2025;365;70000;14;Sport;Mesin;Ganti Part Fast Moving
+217;05/02/2026;05/02/2025;365;30000;6;Matic;Kaki-kaki;Servis Besar
+218;02/02/2026;02/02/2025;365;35000;7;Sport;Kelistrikan;Ganti Part Fast Moving
+219;09/02/2026;09/02/2025;365;30000;6;Matic;Rutin;Servis Ringan
+220;07/02/2026;07/02/2025;365;30000;6;Matic;Rutin;Servis Ringan
+221;06/02/2026;08/11/2025;90;10000;2;Bebek;Rutin;Servis Ringan
+222;09/02/2026;09/02/2025;365;35000;7;Matic;CVT;Servis CVT
+223;07/02/2026;09/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+224;04/02/2026;08/08/2025;180;25000;5;Matic;Pengereman;Ganti Part Fast Moving
+225;02/02/2026;02/02/2025;365;80000;16;Sport;Pengereman;Ganti Part Fast Moving
+226;07/02/2026;11/08/2025;180;25000;5;Matic;CVT;Servis CVT
+227;04/02/2026;08/08/2025;180;15000;3;Matic;Kaki-kaki;Ganti Part Fast Moving
+228;05/02/2026;07/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+229;06/02/2026;06/02/2025;365;80000;16;Sport;Kelistrikan;Ganti Part Fast Moving
+230;07/02/2026;07/02/2025;365;35000;7;Matic;Ban;Ganti Part Fast Moving
+231;07/02/2026;07/02/2025;365;70000;14;Bebek;Ban;Ganti Part Fast Moving
+232;03/02/2026;07/08/2025;180;15000;3;Matic;Pengereman;Ganti Part Fast Moving
+233;05/02/2026;08/08/2025;181;15000;3;Matic;Kelistrikan;Ganti Part Fast Moving
+234;06/02/2026;06/02/2025;365;70000;14;Matic;Rutin;Servis Ringan
+235;04/02/2026;04/02/2025;365;30000;6;Matic;Kelistrikan;Ganti Part Fast Moving
+236;07/02/2026;07/02/2025;365;30000;6;Sport;Kelistrikan;Ganti Part Fast Moving
+237;02/02/2026;04/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+238;09/02/2026;09/02/2025;365;35000;7;Sport;Mesin;Servis Besar
+239;09/02/2026;09/02/2025;365;100000;43;Sport;Pengereman;Ganti Part Fast Moving
+240;04/02/2026;04/02/2025;365;55000;11;Sport;Mesin;Ganti Part Fast Moving
+241;02/02/2026;04/11/2025;90;5000;1;Matic;Rutin;Servis Ringan
+242;03/02/2026;03/02/2025;365;55000;11;Sport;Kaki-kaki;Ganti Part Fast Moving
+243;02/10/2025;04/07/2025;90;10000;2;Matic;CVT;Servis CVT
+244;31/10/2023;02/08/2023;90;5000;1;Matic;CVT;Servis CVT
+245;24/09/2025;26/06/2025;90;10000;2;Bebek;Pengereman;Ganti Part Fast Moving
+246;01/09/2025;03/06/2025;90;5000;1;Matic;Rutin;Servis Ringan
+247;22/08/2025;24/05/2025;90;10000;2;Matic;CVT;Servis CVT
+248;18/10/2025;18/10/2024;365;50000;10;Sport;Kaki-kaki;Ganti Part Fast Moving
+249;30/09/2025;30/09/2024;365;30000;6;Matic;CVT;Servis CVT
+250;21/10/2025;21/10/2024;365;55000;11;Bebek;Kelistrikan;Servis Ringan
+251;25/10/2025;25/10/2024;365;55000;11;Sport;Rutin;Servis Ringan
+252;09/09/2025;09/09/2024;365;30000;6;Matic;CVT;Servis CVT
+253;24/10/2025;24/10/2024;365;55000;11;Sport;Rutin;Servis Ringan
+254;12/09/2025;12/09/2024;365;40000;8;Matic;Mesin;Servis Besar
+255;10/09/2025;12/06/2025;90;5000;1;Matic;Pengereman;Ganti Part Fast Moving
+256;30/09/2025;03/04/2025;180;20000;4;Matic;CVT;Servis CVT
+257;13/09/2025;17/03/2025;180;25000;5;Matic;CVT;Servis CVT
+258;27/09/2025;29/06/2025;90;5000;1;Matic;Rutin;Servis Ringan
+259;28/10/2025;28/10/2024;365;40000;8;Matic;Mesin;Servis Besar
+260;11/10/2025;13/07/2025;90;5000;1;Matic;Pengereman;Ganti Part Fast Moving
+261;03/10/2025;05/07/2025;90;10000;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+262;11/09/2025;11/09/2024;365;70000;14;Bebek;Pengereman;Ganti Part Fast Moving
+263;16/10/2025;18/07/2025;90;10000;2;Matic;CVT;Servis CVT
+264;21/10/2025;23/07/2025;90;5000;1;Matic;Rutin;Servis Ringan
+265;26/09/2025;30/03/2025;180;25000;5;Matic;CVT;Servis CVT
+266;27/08/2025;29/05/2025;90;5000;1;Matic;Pengereman;Ganti Part Fast Moving
+267;29/09/2025;01/07/2025;90;5000;1;Bebek;Rutin;Servis Ringan
+268;14/10/2025;16/07/2025;90;5000;1;Matic;CVT;Servis CVT
+269;19/09/2025;19/09/2024;365;35000;7;Sport;Rutin;Servis Ringan
+270;21/10/2025;23/07/2025;90;5000;1;Matic;Pengereman;Ganti Part Fast Moving
+271;31/10/2025;02/08/2025;90;5000;1;Bebek;Rutin;Servis Ringan
+272;21/10/2025;23/07/2025;90;5000;1;Matic;Rutin;Servis Ringan
+273;24/10/2025;24/10/2024;365;75000;15;Matic;Kaki-kaki;Ganti Part Fast Moving
+274;17/10/2025;17/10/2024;365;40000;8;Matic;Rutin;Servis Ringan
+275;27/10/2025;27/10/2024;365;65000;13;Bebek;Rutin;Servis Ringan
+276;07/10/2025;11/04/2025;179;20000;4;Sport;Pengereman;Ganti Part Fast Moving
+277;21/10/2025;23/07/2025;90;5000;1;Matic;Pengereman;Ganti Part Fast Moving
+278;12/10/2025;16/04/2025;179;15000;3;Matic;CVT;Servis CVT
+279;15/09/2025;17/06/2025;90;5000;1;Matic;Rutin;Servis Ringan
+280;20/10/2025;22/07/2025;90;5000;1;Matic;Rutin;Servis Ringan
+281;20/10/2025;20/10/2024;365;50000;10;Bebek;Mesin;Servis Besar
+282;05/09/2025;07/06/2025;90;10000;2;Matic;Pengereman;Ganti Part Fast Moving
+283;25/10/2025;28/04/2025;180;20000;4;Matic;Kaki-kaki;Ganti Part Fast Moving
+284;26/08/2025;26/08/2024;365;30000;6;Matic;Mesin;Ganti Part Fast Moving
+285;24/10/2025;24/10/2024;365;30000;6;Matic;Rutin;Servis Ringan
+286;20/10/2025;20/10/2024;365;40000;8;Sport;Mesin;Ganti Part Fast Moving
+287;24/08/2025;24/08/2024;365;45000;9;Sport;Rutin;Servis Ringan
+288;31/10/2025;02/08/2025;90;10000;2;Matic;Kelistrikan;Servis Ringan
+289;29/08/2025;29/08/2024;365;50000;10;Bebek;Rutin;Servis Ringan
+290;16/08/2025;17/02/2025;180;25000;5;Sport;Pengereman;Ganti Part Fast Moving
+291;24/09/2025;24/09/2024;365;65000;13;Matic;Mesin;Ganti Part Fast Moving
+292;17/09/2025;17/09/2024;365;55000;11;Sport;Pengereman;Ganti Part Fast Moving
+293;15/08/2025;15/08/2024;365;40000;8;Sport;Kaki-kaki;Ganti Part Fast Moving
+294;09/10/2025;09/10/2024;365;30000;6;Sport;Kaki-kaki;Ganti Part Fast Moving
+295;25/10/2025;25/10/2024;365;35000;7;Matic;Mesin;Ganti Part Fast Moving
+296;17/10/2025;21/04/2025;179;25000;5;Matic;Pengereman;Ganti Part Fast Moving
+297;22/08/2025;24/05/2025;90;10000;2;Bebek;Rutin;Servis Ringan
+298;02/09/2025;04/06/2025;90;5000;1;Matic;Kaki-kaki;Ganti Part Fast Moving
+299;05/09/2025;05/09/2024;365;30000;6;Sport;Rutin;Servis Ringan
+300;18/09/2025;18/03/2025;184;10000;2;Matic;CVT;Servis CVT
+301;03/09/2025;03/09/2024;365;30000;6;Sport;Pengereman;Ganti Part Fast Moving
+302;19/09/2025;19/06/2025;92;5000;1;Matic;Rutin;Servis Ringan
+303;02/09/2025;02/03/2025;184;25000;5;Matic;Mesin;Servis Besar
+304;24/08/2025;24/05/2025;92;5000;1;Matic;Rutin;Servis Ringan
+305;15/07/2025;20/04/2025;86;21500;3;Matic;Rutin;Ganti Part Fast Moving
+306;22/08/2025;18/05/2025;96;23800;4;Bebek;Rutin;Ganti Part Fast Moving
+307;05/09/2025;19/06/2025;78;19200;2;Sport;Rutin;Ganti Part Fast Moving
+308;10/10/2025;27/06/2025;105;26300;5;Matic;Rutin;Ganti Part Fast Moving
+309;18/07/2025;17/05/2025;62;18700;3;Bebek;Rutin;Ganti Part Fast Moving
+310;03/08/2025;07/05/2025;88;32100;4;Matic;Rutin;Ganti Part Fast Moving
+311;28/09/2025;18/07/2025;72;24600;3;Sport;Rutin;Ganti Part Fast Moving
+312;12/10/2025;19/06/2025;115;28900;6;Matic;Rutin;Ganti Part Fast Moving
+313;25/08/2025;24/05/2025;93;35200;5;Bebek;Rutin;Ganti Part Fast Moving
+314;14/09/2025;09/07/2025;67;22100;4;Sport;Rutin;Ganti Part Fast Moving
+315;20/07/2025;06/05/2025;75;17500;2;Matic;Rutin;Servis CVT
+316;08/08/2025;18/05/2025;82;22800;3;Matic;Rutin;Servis CVT
+317;11/09/2025;05/07/2025;68;19300;2;Matic;Rutin;Servis CVT
+318;30/09/2025;01/07/2025;91;25600;4;Matic;Rutin;Servis CVT
+319;15/10/2025;28/06/2025;109;31200;5;Matic;Rutin;Servis CVT
+320;01/08/2025;04/06/2025;58;16800;3;Matic;Rutin;Servis CVT
+321;22/10/2025;17/07/2025;97;28400;4;Matic;Rutin;Servis CVT
+322;08/09/2025;06/05/2025;125;42500;7;Matic;Rutin;Servis Besar
+323;20/10/2025;23/04/2025;180;48200;8;Bebek;Rutin;Servis Besar
+324;02/11/2025;06/04/2025;210;55800;9;Sport;Rutin;Servis Besar
+325;18/08/2025;26/03/2025;145;38700;6;Matic;Rutin;Servis Besar
+326;05/10/2025;23/04/2025;165;45100;7;Bebek;Rutin;Servis Besar
+327;13/04/2023;19/01/2023;84;68000;8;Sport;Kaki-kaki;Ganti Part Fast Moving
+328;17/06/2025;13/06/2024;369;7000;1;Matic;Rutin;Servis Ringan
+329;19/02/2025;07/12/2024;74;25000;5;Bebek;Pengereman;Ganti Part Fast Moving
+330;25/02/2024;16/02/2022;739;15000;2;Matic;Kelistrikan;Ganti Part Fast Moving
+331;17/09/2024;21/09/2023;362;41000;6;Sport;Injeksi;Servis Ringan
+332;01/03/2025;08/12/2024;83;20000;3;Sport;Rutin;Servis Ringan
+333;17/06/2025;11/06/2024;371;51000;6;Matic;Kaki-kaki;Ganti Part Fast Moving
+334;04/01/2023;06/08/2022;151;25000;4;Matic;CVT;Servis CVT
+335;24/03/2025;24/03/2024;365;21500;3;Sport;Rutin;Servis Ringan
+336;21/11/2025;25/08/2025;88;69000;9;Sport;Rutin;Ganti Part Fast Moving
+337;10/03/2025;14/07/2024;239;24000;3;Sport;Injeksi;Servis Ringan
+338;05/10/2025;10/04/2025;178;35000;6;Sport;Kaki-kaki;Ganti Part Fast Moving
+339;02/10/2025;16/07/2025;78;5000;1;Matic;Rutin;Servis Ringan
+340;09/10/2025;03/12/2021;1406;4000;1;Bebek;Pengereman;Servis Ringan
+341;22/11/2025;12/03/2025;255;6000;1;Matic;CVT;Servis CVT
+342;21/12/2025;27/12/2024;359;5500;1;Matic;CVT;Servis CVT
+343;12/09/2024;02/07/2024;72;15700;5;Matic;CVT;Servis CVT
+344;04/05/2025;20/02/2025;73;23500;3;Bebek;Rutin;Servis Ringan
+345;02/07/2024;01/05/2024;62;11500;2;Matic;Kaki-kaki;Ganti Part Fast Moving
+346;27/10/2023;10/10/2022;382;34000;6;Matic;Pengereman;Ganti Part Fast Moving
+347;09/11/2023;30/04/2019;1654;8000;1;Matic;CVT;Servis CVT
+348;17/01/2023;23/12/2020;755;12000;2;Bebek;Kaki-kaki;Ganti Part Fast Moving
+349;01/11/2024;07/07/2024;117;19000;2;Bebek;Ban;Ganti Part Fast Moving
+350;07/01/2023;17/07/2022;174;7000;1;Matic;Rutin;Servis Ringan
+351;07/11/2025;27/11/2024;345;48000;14;Sport;Rutin;Servis Ringan
+352;15/07/2024;18/07/2023;363;4000;1;Bebek;Rutin;Ganti Part Fast Moving
+353;04/06/2025;18/06/2022;1082;19000;6;Bebek;Kaki-kaki;Ganti Part Fast Moving
+354;24/02/2025;22/12/2024;64;64515;8;Sport;Rutin;Servis Ringan
+355;30/06/2025;05/07/2024;360;36000;7;Sport;Kaki-kaki;Ganti Part Fast Moving
+356;23/03/2025;03/03/2023;751;21415;3;Sport;Pengereman;Ganti Part Fast Moving
+357;06/04/2025;13/07/2024;267;19000;3;Bebek;Rantai;Ganti Part Fast Moving
+358;17/08/2025;11/03/2025;159;60000;8;Matic;Kaki-kaki;Ganti Part Fast Moving
+359;08/05/2024;23/06/2023;320;12000;2;Matic;Rutin;Servis Ringan
+360;30/05/2023;31/01/2023;119;17000;2;Matic;Kaki-kaki;Servis CVT
+361;12/06/2025;26/03/2025;78;24000;6;Matic;Rutin;Servis Ringan
+362;22/02/2025;26/05/2024;272;46000;6;Matic;Kelistrikan;Ganti Part Fast Moving
+363;19/07/2024;12/01/2024;189;24200;3;Matic;CVT;Servis CVT
+364;07/09/2024;28/08/2023;376;7500;1;Matic;Mesin;Ganti Part Fast Moving
+365;03/04/2023;16/04/2021;717;12000;5;Bebek;Rutin;Servis Ringan
+366;09/07/2023;07/07/2022;367;39000;4;Sport;Injeksi;Servis Ringan
+367;09/07/2025;20/11/2024;231;10000;4;Bebek;Pengereman;Servis Ringan
+368;02/03/2024;24/09/2023;160;60000;7;Sport;Rutin;Servis Ringan
+369;02/06/2023;01/03/2023;93;61000;6;Sport;Mesin;Servis Besar
+370;22/10/2024;22/03/2024;214;20300;4;Matic;Kaki-kaki;Servis CVT
+371;20/08/2025;14/05/2025;98;40000;5;Sport;Rutin;Ganti Part Fast Moving
+372;14/11/2025;22/11/2024;357;14000;2;Matic;CVT;Servis CVT
+373;06/09/2023;21/06/2023;77;24000;7;Sport;Rutin;Servis Ringan
+374;12/06/2023;15/09/2022;270;13000;2;Matic;Pengereman;Ganti Part Fast Moving
+375;31/10/2025;31/10/2021;1461;26420;3;Sport;Kaki-kaki;Ganti Part Fast Moving
+376;22/07/2025;06/05/2025;77;6000;1;Matic;Pengereman;Ganti Part Fast Moving
+377;18/08/2025;03/04/2023;868;48000;5;Sport;Mesin;Servis Besar
+378;12/03/2025;28/11/2024;104;58770;8;Sport;Rutin;Servis Ringan
+379;15/02/2023;03/03/2021;714;49000;5;Matic;CVT;Servis CVT
+380;16/01/2025;06/02/2023;710;14000;2;Sport;Kelistrikan;Servis Ringan
+381;13/12/2025;14/10/2025;60;61500;6;Sport;Rutin;Servis Ringan
+382;02/07/2024;09/02/2024;144;27000;4;Matic;CVT;Servis CVT
+383;30/10/2025;17/01/2023;1017;22000;4;Matic;Kaki-kaki;Ganti Part Fast Moving
+384;25/01/2023;27/02/2022;332;8500;2;Matic;CVT;Servis CVT
+385;21/12/2025;25/04/2025;240;9000;1;Matic;Kaki-kaki;Servis CVT
+386;21/12/2025;19/12/2021;1463;49475;6;Sport;Pengereman;Servis Ringan
+387;10/12/2025;12/12/2024;363;49000;5;Sport;Rutin;Servis Besar
+388;24/12/2023;17/10/2023;68;51400;7;Matic;Rem;Ganti Part Fast Moving
+389;05/09/2025;04/06/2025;93;54500;6;Sport;Rutin;Servis Ringan
+390;31/08/2025;31/08/2024;365;63000;11;Matic;Rutin;Servis Ringan
+391;18/07/2023;16/07/2022;367;57215;8;Sport;Rutin;Servis Besar
+392;28/04/2025;05/02/2025;82;21985;2;Sport;Rutin;Servis Ringan
+393;09/10/2024;15/04/2024;177;14500;2;Matic;Rutin;Servis Ringan
+394;04/05/2023;05/03/2023;60;5700;1;Matic;Rutin;Servis Ringan
+395;26/01/2025;24/01/2023;733;71800;9;Matic;Rutin;Servis Ringan
+396;27/10/2025;28/10/2024;364;56000;8;Bebek;Rutin;Servis Ringan
+397;03/03/2025;28/12/2024;65;53000;14;Sport;Kaki-kaki;Ganti Part Fast Moving
+398;15/10/2025;14/09/2021;1492;3500;1;Bebek;Pengereman;Ganti Part Fast Moving
+399;02/02/2025;24/02/2024;344;16000;2;Sport;Kelistrikan;Ganti Part Fast Moving
+400;23/05/2025;25/05/2024;363;64000;7;Sport;Rutin;Servis Ringan
+401;11/02/2025;16/02/2024;361;30000;6;Sport;Mesin;Servis Besar
+402;17/09/2023;01/06/2023;108;8500;2;Bebek;Kopling;Servis Besar
+403;25/03/2024;09/08/2023;229;27980;5;Matic;Rutin;Servis Ringan
+404;18/07/2024;31/10/2023;261;68000;10;Matic;Rutin;Servis Ringan
+405;13/06/2024;09/06/2023;370;52600;6;Sport;Kaki-kaki;Ganti Part Fast Moving
+406;08/04/2025;02/09/2024;218;37000;4;Matic;Kaki-kaki;Servis CVT
+407;18/12/2024;01/12/2023;383;6000;1;Matic;Kaki-kaki;Ganti Part Fast Moving
+408;24/12/2025;21/12/2023;734;63500;9;Matic;Kaki-kaki;Ganti Part Fast Moving
+409;17/06/2025;24/07/2024;328;6295;1;Matic;Rutin;Servis Ringan
+410;02/07/2024;01/07/2023;367;17000;3;Matic;CVT;Servis CVT
+411;04/02/2023;23/02/2021;711;32675;6;Sport;Kaki-kaki;Ganti Part Fast Moving
+412;31/10/2025;27/10/2024;369;10600;2;Matic;Rutin;Servis Ringan
+413;20/10/2025;16/03/2022;1314;10500;3;Matic;Pengereman;Ganti Part Fast Moving
+414;28/05/2025;16/05/2024;377;32300;6;Bebek;Pengereman;Servis Ringan
+415;12/09/2025;28/08/2023;746;19000;3;Matic;CVT;Servis CVT
+416;18/11/2023;02/03/2023;261;11500;2;Matic;Rutin;Servis Ringan
+417;30/01/2024;08/11/2023;83;19500;4;Matic;Rutin;Servis Ringan
+418;18/04/2024;24/01/2024;85;22000;5;Bebek;Kaki-kaki;Ganti Part Fast Moving
+419;18/12/2025;14/12/2023;735;21500;3;Matic;Mesin;Servis Besar
+420;14/07/2023;01/08/2021;712;28000;4;Bebek;Mesin;Servis Besar
+421;25/10/2025;30/10/2024;360;48000;9;Sport;Rutin;Servis Ringan
+422;11/03/2023;19/11/2022;112;46000;8;Matic;Rutin;Servis Ringan
+423;29/11/2025;23/11/2023;737;8500;2;Bebek;Pengereman;Ganti Part Fast Moving
+424;08/12/2025;09/11/2023;760;10200;1;Sport;Mesin;Servis Besar
+425;14/08/2025;05/08/2023;740;21000;3;Bebek;Pengereman;Ganti Part Fast Moving
+426;19/08/2025;30/08/2023;720;64000;13;Matic;Performa;Servis CVT
+427;16/09/2025;17/04/2025;152;20000;3;Bebek;Pengereman;Ganti Part Fast Moving
+428;18/04/2025;19/01/2025;89;26000;4;Matic;Rutin;Ganti Part Fast Moving
+429;19/08/2023;06/10/2022;317;9000;1;Matic;Rutin;Servis Ringan
+430;03/02/2023;14/08/2022;173;15000;3;Matic;Pengereman;Ganti Part Fast Moving
+431;20/06/2024;12/12/2023;191;13000;3;Matic;Kelistrikan;Ganti Part Fast Moving
+432;16/04/2025;28/10/2022;901;44500;4;Sport;Rutin;Servis Ringan
+433;02/04/2023;18/03/2022;380;61500;14;Bebek;Mesin;Servis Besar
+434;27/08/2023;28/05/2023;91;37000;4;Sport;Rutin;Ganti Part Fast Moving
+435;22/10/2025;19/10/2024;368;12965;2;Matic;Kaki-kaki;Ganti Part Fast Moving
+436;13/05/2025;10/05/2024;368;14000;3;Bebek;Pengereman;Ganti Part Fast Moving
+437;16/06/2024;05/04/2024;72;39000;5;Matic;Rutin;Servis Ringan
+438;24/03/2024;17/07/2023;251;23000;3;Sport;Mesin;Servis Besar
+439;19/12/2024;28/12/2022;722;16000;2;Matic;Rutin;Servis Ringan
+440;06/04/2023;29/01/2023;67;56000;6;Sport;Rutin;Servis Ringan
+441;12/07/2025;09/03/2023;856;72000;10;Matic;Rutin;Servis Ringan
+442;07/09/2024;10/09/2023;363;10960;1;Matic;Performa;Servis Ringan
+443;12/04/2025;25/10/2024;169;37000;6;Sport;Rutin;Servis Ringan
+444;07/04/2023;06/04/2021;731;60000;8;Sport;Kopling;Servis Besar
+445;22/04/2025;05/05/2024;352;32500;3;Sport;Rutin;Servis Ringan
+446;03/03/2025;28/02/2024;369;20500;2;Matic;CVT;Servis CVT
+447;12/04/2025;20/08/2022;966;9000;1;Matic;Performa;Servis Ringan
+448;05/12/2023;20/11/2021;745;50655;8;Bebek;Kaki-kaki;Ganti Part Fast Moving
+449;13/07/2023;25/03/2021;840;6000;1;Matic;Rutin;Servis Ringan
+450;24/02/2023;06/04/2022;324;45000;7;Matic;Rutin;Servis CVT
+451;07/09/2024;22/03/2024;169;22500;2;Sport;Mesin;Servis Besar
+452;29/07/2025;09/01/2025;201;20000;2;Sport;Pengereman;Ganti Part Fast Moving
+453;15/12/2024;11/09/2024;95;46000;6;Matic;Rutin;Servis Besar
+454;27/02/2025;24/02/2024;369;15200;4;Matic;CVT;Servis CVT
+455;03/02/2025;26/08/2024;161;68000;10;Matic;Rutin;Servis Ringan
+456;14/06/2025;08/06/2024;371;49000;10;Bebek;Kaki-kaki;Ganti Part Fast Moving
+457;12/12/2023;06/06/2023;189;22500;3;Matic;Rutin;Servis Ringan
+458;13/12/2024;21/06/2024;175;72400;13;Matic;Rutin;Servis Ringan
+459;21/07/2023;13/09/2020;1041;8440;1;Matic;Pengereman;Ganti Part Fast Moving
+460;10/11/2025;06/05/2025;188;7025;1;Matic;CVT;Servis CVT
+461;09/12/2024;01/09/2024;99;31300;4;Matic;Rutin;Servis Ringan
+462;22/11/2023;23/06/2023;152;11000;2;Matic;Kelistrikan;Servis Ringan
+463;06/10/2025;14/09/2023;753;22000;3;Sport;Pengereman;Servis Ringan
+464;19/12/2024;30/12/2023;355;30000;3;Matic;Kaki-kaki;Ganti Part Fast Moving
+465;03/08/2024;02/08/2022;732;6000;1;Matic;CVT;Servis CVT
+466;05/05/2025;26/05/2023;710;11640;2;Matic;Kaki-kaki;Ganti Part Fast Moving
+467;29/11/2025;28/12/2022;1067;21500;3;Sport;Radiator;Servis Ringan
+468;18/09/2025;12/07/2025;68;48000;7;Sport;Kelistrikan;Ganti Part Fast Moving
+469;08/10/2025;13/07/2025;87;45700;5;Sport;Performa;Servis Ringan
+470;16/03/2025;23/03/2024;358;77000;10;Sport;Pengereman;Ganti Part Fast Moving
+471;07/04/2024;25/05/2023;318;74000;10;Sport;Rutin;Servis Ringan
+472;20/11/2025;10/11/2024;375;7000;3;Bebek;Kaki-kaki;Ganti Part Fast Moving
+473;15/02/2025;14/02/2024;367;43300;5;Matic;CVT;Servis CVT
+474;08/01/2023;27/12/2021;377;30000;6;Sport;Mesin;Servis Ringan
+475;01/12/2024;03/09/2024;89;47855;8;Sport;Kopling;Servis Besar
+476;14/09/2024;19/02/2024;208;47000;5;Sport;Pengereman;Servis Ringan
+477;07/03/2025;20/02/2024;381;8230;1;Matic;CVT;Servis CVT
+478;02/12/2024;03/12/2023;365;15400;2;Matic;Rutin;Ganti Part Fast Moving
+479;07/06/2025;05/06/2024;367;47000;12;Matic;Rutin;Servis Ringan
+480;31/01/2025;23/01/2024;374;15200;4;Bebek;Kaki-kaki;Ganti Part Fast Moving
+481;29/01/2023;05/10/2022;116;23000;4;Matic;Performa;Ganti Part Fast Moving
+482;26/04/2023;29/04/2022;362;28000;4;Sport;Radiator;Servis Ringan
+483;19/09/2025;18/04/2025;154;6000;1;Matic;Rutin;Servis Ringan
+484;05/05/2023;08/08/2022;270;54455;6;Sport;Mesin;Ganti Part Fast Moving
+485;21/04/2025;19/06/2022;1037;10000;1;Sport;Radiator;Servis Ringan
+486;01/05/2023;23/02/2023;67;38000;5;Sport;Injeksi;Servis Ringan
+487;13/07/2023;18/01/2021;906;43315;13;Sport;Kopling;Servis Besar
+488;06/05/2025;12/08/2024;267;18060;3;Matic;Pengereman;Ganti Part Fast Moving
+489;20/09/2023;08/07/2023;74;67000;10;Matic;Rutin;Servis Ringan
+490;27/07/2025;10/01/2025;198;33000;4;Matic;Kaki-kaki;Servis CVT
+491;13/02/2025;29/10/2024;107;2200;1;Matic;Rutin;Servis CVT
+492;13/07/2025;02/09/2024;314;54000;9;Bebek;Rutin;Servis Ringan
+493;14/03/2025;24/07/2022;964;17100;2;Sport;Performa;Servis Ringan
+494;20/08/2025;18/08/2024;367;3000;1;Matic;Kaki-kaki;Ganti Part Fast Moving
+495;31/07/2024;30/07/2023;367;12000;2;Matic;Mesin;Ganti Part Fast Moving
+496;05/08/2023;06/05/2023;91;13000;2;Matic;Rutin;Servis Ringan
+497;18/06/2025;02/01/2025;167;12500;2;Sport;Rutin;Ganti Part Fast Moving
+498;03/02/2023;28/01/2021;736;4000;1;Matic;Rutin;Servis Ringan
+499;09/01/2025;26/03/2022;1020;20000;3;Sport;Rutin;Ganti Part Fast Moving
+500;09/02/2025;04/02/2024;371;30000;4;Matic;CVT & Kaki;Servis CVT
